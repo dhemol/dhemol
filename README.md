@@ -1,19 +1,10 @@
-- 👋 Hi, I’m @dhemol
-- 👀 I’m interested in MERN Stack
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate in developing a website based on the MERN Stack
-- 📫 How to reach me ...
-- https://g.dev/dhemol
-
-# Hi there, I'm Dede Maulana - aka [DHEMOL]👋
+# Hi there, I'm Dede Maulana - aka [DHEMOL][[https://google.com/dhemol]👋
 
 ## I'm a Student, Employee, Developer, and Teacher!!
 
 - 👀 I’m interested in MERN Stack
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate in developing a website based on the MERN Stack
-- 📫 How to reach me ...
-- https://g.dev/dhemol
 
 ### Connect with me:
 
