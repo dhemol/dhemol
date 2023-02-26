@@ -1,4 +1,4 @@
-# Hi there, I'm Dede Maulana - aka [DHEMOL][[https://google.com/dhemol]👋
+# Hi there, I'm Dede Maulana - aka [DHEMOL][https://google.com/dhemol]👋
 
 ## I'm a Student, Employee, Developer, and Teacher!!
 
